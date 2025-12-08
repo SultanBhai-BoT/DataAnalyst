@@ -7,3 +7,4 @@
 - KPI cards (Total Sales, Total Profit, Total COGS), synced slicers.  
 - Product & country level analysis, discount band visuals.
 
+
