@@ -1,5 +1,4 @@
-Finance Sales Performance Analytics/Finance_Dashboard_1.PNG
-![Dashboard](Finance Sales Performance Analytics/Finance_Dashboard_1.PNG)
+![Finance Dashboard](Finance%20Sales%20Performance%20Analytics/Finance_Dashboard_1.PNG)
 
 # Finance Sales Performance Analytics
 **Tools:** Excel, Power BI
