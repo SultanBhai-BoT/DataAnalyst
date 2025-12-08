@@ -1,4 +1,4 @@
-👋# Hi, I'm **Sultan Khan**
+# Hi, I'm **Sultan Khan**
 ### Data Analyst ( Excel | SQL | Power BI | Tableau | Python )
 
 I am a passionate **Data Analyst** who loves transforming raw data into meaningful insights that support business decision-making.  
