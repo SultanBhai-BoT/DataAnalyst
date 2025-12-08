@@ -1,5 +1,5 @@
 # Hi, I'm **Sultan Khan**
-### Data Analyst | Excel | SQL | Power BI | Tableau | Python
+### Data Analyst ( Excel | SQL | Power BI | Tableau | Python )
 
 I am a passionate **Data Analyst** who loves transforming raw data into meaningful insights that support business decision-making.  
 This portfolio showcases my projects, dashboards, and analytics work demonstrating my practical skills.
