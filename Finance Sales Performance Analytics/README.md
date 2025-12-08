@@ -1,4 +1,5 @@
-![Finance Dashboard Preview](C:\ExcelR\My_PROJECTS\2nd Finance Project\Finance_Dashboard_1.PNG)
+Finance Sales Performance Analytics/Finance_Dashboard_1.PNG
+![Dashboard](Finance Sales Performance Analytics/Finance_Dashboard_1.PNG)
 
 # Finance Sales Performance Analytics
 **Tools:** Excel, Power BI
