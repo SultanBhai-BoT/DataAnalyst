@@ -1,7 +1,7 @@
 # HR Analytics – Employee Retention Dashboard 📉
 
 ## Overview
-This project analyzes employee attrition to identify key factors affecting retention and overall workforce stability.
+This project analyzes employee attrition to identify key factors affecting retention and overall workforce stability and created the Dashboard in Excel, Power BI and Tableau by using the Same Dataset.
 
 ## Tools Used 🛠️
 - Advanced Excel
