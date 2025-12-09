@@ -1,4 +1,4 @@
-# Finance Sales Performance Analytics 📊
+# Finance Sales Performance Analytics Dashboard📊
 
 ## Overview
 A financial analytics project evaluating Sales, Profit, and COGS across multiple regions, categories, and customer segments.
