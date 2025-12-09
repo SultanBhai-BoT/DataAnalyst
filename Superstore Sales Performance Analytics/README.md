@@ -1,4 +1,4 @@
-# Superstore Sales Performance Analytics 🛒
+# Superstore Sales Performance Analytics Dashboard🛒
 
 ## Overview
 Retail analytics project focusing on sales, profit, and customer segment performance across different states and categories.
